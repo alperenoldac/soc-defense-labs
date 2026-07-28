@@ -1,20 +1,19 @@
-# 🛡️ SOC & Blue Team Operations Workspace
+# SOC Defense Labs
 
-This repository serves as my active workspace for practical cybersecurity defense. It contains my custom automation scripts, system audit tools, and hands-on lab notes.
+My cybersecurity learning labs and security automation tools.
 
-## 📂 Repository Structure
+## Projects
 
-* **/scripts:** Bash scripts written for log analysis, system auditing, and routine security checks.
-* **/notes:** My Markdown notes mapped from TryHackMe paths and personal research (focusing heavily on Linux and Network fundamentals).
+### Bash Scripts
 
-## 🚀 Core Focus Areas
-* Understanding Linux internal mechanics and privilege management.
-* Automating basic log parsing and analysis via Bash.
-* Analyzing network traffic and foundational security events.
+- FindLogs
+  - Linux log analysis script
+  - Searches suspicious events using grep
 
-## 🛠️ Example Usage
-To run the basic log monitoring script from my toolkit:
-\`\`\`bash
-chmod +x scripts/log_monitor.sh
-./scripts/log_monitor.sh /var/log/auth.log
-\`\`\`
+### Python Tools
+
+Coming soon...
+
+### Network Tools
+
+Coming soon...
