@@ -1,19 +1,19 @@
-# SOC Defense Labs
+# 🛡️ SOC Defense Labs
 
-My cybersecurity learning labs and security automation tools.
+My cybersecurity learning repository focused on defensive security, Linux, and security automation.
 
-## Projects
+## 📂 Projects
 
-### Bash Scripts
+### 🐧 Bash Scripts
+- 🔍 FindLogs — Linux log analysis script
 
-- FindLogs
-  - Linux log analysis script
-  - Searches suspicious events using grep
+## 🧰 Tools
 
-### Python Tools
+- Ubuntu Linux
+- Bash
+- Git & GitHub
+- Vim
 
-Coming soon...
+## 🚀 Learning Path
 
-### Network Tools
-
-Coming soon...
+Linux → Networking → Security Fundamentals → SOC Analysis
